@@ -1,0 +1,13 @@
+{
+  "baseURL": "https://bfs.compeon-reverse-fe.staging.devguru.co",
+  "fundingAmount": 15000,
+  "machinePrice": 10000,
+  "machineCount": 23,
+  "machineDescription": "Heelo to the whole world of BFS",
+  "firstName": "Fabien",
+  "lastName": "Lampard",
+  "phone": "+49171",
+  "email": "lop@pain.com",
+  "pass": "Pass1234"
+
+}
